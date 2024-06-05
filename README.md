@@ -8,16 +8,16 @@ Captions for animations:
 
 ![ezgif-6-716de5b444](https://github.com/styxx216/CV/assets/38997882/d941eef0-31e3-46b3-ab6b-1dc849d1f13b)
 
-Real-time counting of people using YOLO.
+Real-time counting of people with the pre-trained YOLO model.
 
 ### Cars on the road: 
 
 ![ezgif-7-7c9318f4d0](https://github.com/styxx216/CV/assets/38997882/41cadb65-813b-46f8-9ffa-ebdfac15eee8)
 
-Counting cars with the pre-trained YOLO model.
+Real-time counting of cars with the pre-trained YOLO model.
 
 ### Vials on the conveyor belt:
 
 ![ezgif-7-e123a486bc](https://github.com/styxx216/CV/assets/38997882/66d31241-6039-4dc8-9f0a-5243cffee294)
 
-Counting vaccine vials after training the model on a custom dataset.
+Real-time counting of vaccine vials after training the model on a custom dataset.
