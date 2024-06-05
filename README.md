@@ -6,7 +6,7 @@ Captions for animations:
 
 ### People on escalator: 
 
-![Uploading ezgif-6-716de5b444.gif…]()
+![ezgif-6-716de5b444](https://github.com/styxx216/CV/assets/38997882/d941eef0-31e3-46b3-ab6b-1dc849d1f13b)
 
 Real-time counting of people using YOLO.
 
