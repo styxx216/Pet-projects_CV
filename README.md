@@ -18,6 +18,6 @@ Real-time counting of cars with the pre-trained YOLO model.
 
 ### Vials on the conveyor belt:
 
-![ezgif-7-e123a486bc](https://github.com/styxx216/CV/assets/38997882/66d31241-6039-4dc8-9f0a-5243cffee294)
+![ezgif-7-52b116c426](https://github.com/styxx216/CV/assets/38997882/9f75701f-1024-44b9-af57-815668e26254)
 
 Real-time counting of vaccine vials after training the model on a custom dataset.
