@@ -1,5 +1,8 @@
 
 ## Project Description:
+
+Real-time Detection, Tracking, and Counting of moving objects crossing a control line.
+
 The project uses the YOLO model for real-time object counting, including people on an escalator and cars on the road without additional training, as well as vaccine vials on a conveyor belt, for which a custom dataset was created and labeled.
 
 Captions for animations:
