@@ -3,7 +3,7 @@
 
 Video Traffic Analytics: Real-time Detection, Tracking, and Counting of Moving Objects Crossing a Control Line
 
-## Project Overview
+# Project Overview
 This project implements a real-time object counting system using the YOLO (You Only Look Once) object detection model. The system detects, tracks, and counts moving objects that cross a designated control line. It supports various use cases such as:
 
 Counting people on an escalator
