@@ -19,22 +19,26 @@ Efficient tracking: Ensures accurate counting even in fast-moving environments.
 Captions for animations:
 
 ### People on escalator: 
-* Goal: Count the number of people using the escalator in real-time.
-* Model: Pre-trained YOLO model.
-* Description: The system detects and tracks people as they pass a control line on an escalator, providing a live count.
 
 ![ezgif-6-716de5b444](https://github.com/styxx216/CV/assets/38997882/d941eef0-31e3-46b3-ab6b-1dc849d1f13b)
+* **Goal**: Count the number of people using the escalator in real-time.
+* **Model**: Pre-trained YOLO model.
+* **Description**: The system detects and tracks people as they pass a control line on an escalator, providing a live count.
 
-Real-time counting of people with the pre-trained YOLO model.
+Real-time counting of people with the pre-trained YOLO model
 
 ### Cars on the road: 
 
 ![ezgif-7-7c9318f4d0](https://github.com/styxx216/CV/assets/38997882/41cadb65-813b-46f8-9ffa-ebdfac15eee8)
 
-Real-time counting of cars with the pre-trained YOLO model.
+* **Goal**: Real-time detection and counting of cars passing a specific point on the road.
+* **Model**: Pre-trained YOLO model.
+* **Description**: The system identifies and counts vehicles as they cross a control line on a busy road.
 
 ### Vials on the conveyor belt:
 
 ![ezgif-7-52b116c426](https://github.com/styxx216/CV/assets/38997882/9f75701f-1024-44b9-af57-815668e26254)
 
-Real-time counting of vaccine vials after training the model on a custom dataset.
+* **Goal**: Count vaccine vials in a production line for inventory management.
+* **Model**: YOLO model trained on a custom dataset.
+* **Description**: Custom-trained YOLO model detects and counts vaccine vials in real time as they move along a conveyor belt.
