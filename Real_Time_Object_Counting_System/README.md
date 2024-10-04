@@ -19,9 +19,9 @@ Efficient tracking: Ensures accurate counting even in fast-moving environments.
 Captions for animations:
 
 ### People on escalator: 
-*Goal: Count the number of people using the escalator in real-time.
-*Model: Pre-trained YOLO model.
-*Description: The system detects and tracks people as they pass a control line on an escalator, providing a live count.
+* Goal: Count the number of people using the escalator in real-time.
+* Model: Pre-trained YOLO model.
+* Description: The system detects and tracks people as they pass a control line on an escalator, providing a live count.
 
 ![ezgif-6-716de5b444](https://github.com/styxx216/CV/assets/38997882/d941eef0-31e3-46b3-ab6b-1dc849d1f13b)
 
