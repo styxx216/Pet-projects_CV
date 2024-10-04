@@ -25,8 +25,6 @@ Captions for animations:
 * **Model**: Pre-trained YOLO model.
 * **Description**: The system detects and tracks people as they pass a control line on an escalator, providing a live count.
 
-Real-time counting of people with the pre-trained YOLO model
-
 ### Cars on the road: 
 
 ![ezgif-7-7c9318f4d0](https://github.com/styxx216/CV/assets/38997882/41cadb65-813b-46f8-9ffa-ebdfac15eee8)
