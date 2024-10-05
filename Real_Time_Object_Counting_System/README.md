@@ -16,7 +16,6 @@ Pre-trained YOLO model: Supports generic objects like people and vehicles withou
 Custom dataset support: Allows custom object counting, demonstrated with vaccine vials on a conveyor belt.
 Efficient tracking: Ensures accurate counting even in fast-moving environments.
 
-Captions for animations:
 
 ### People on escalator: 
 
