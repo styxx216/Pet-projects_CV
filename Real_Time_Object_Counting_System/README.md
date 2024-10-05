@@ -16,15 +16,15 @@ Pre-trained YOLO model: Supports generic objects like people and vehicles withou
 Custom dataset support: Allows custom object counting, demonstrated with vaccine vials on a conveyor belt.
 Efficient tracking: Ensures accurate counting even in fast-moving environments.
 
-
-### People on escalator: 
+### Examples
+#### People on escalator: 
 
 ![ezgif-6-716de5b444](https://github.com/styxx216/CV/assets/38997882/d941eef0-31e3-46b3-ab6b-1dc849d1f13b)
 * **Goal**: Count the number of people using the escalator in real-time.
 * **Model**: Pre-trained YOLO model.
 * **Description**: The system detects and tracks people as they pass a control line on an escalator, providing a live count.
 
-### Cars on the road: 
+#### Cars on the road: 
 
 ![ezgif-7-7c9318f4d0](https://github.com/styxx216/CV/assets/38997882/41cadb65-813b-46f8-9ffa-ebdfac15eee8)
 
@@ -32,7 +32,7 @@ Efficient tracking: Ensures accurate counting even in fast-moving environments.
 * **Model**: Pre-trained YOLO model.
 * **Description**: The system identifies and counts vehicles as they cross a control line on a busy road.
 
-### Vials on the conveyor belt:
+#### Vials on the conveyor belt:
 
 ![ezgif-7-52b116c426](https://github.com/styxx216/CV/assets/38997882/9f75701f-1024-44b9-af57-815668e26254)
 
