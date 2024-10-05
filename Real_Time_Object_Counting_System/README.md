@@ -1,5 +1,5 @@
 
-## Project Description:
+### Project Description:
 
 Video Traffic Analytics: Real-time Detection, Tracking, and Counting of Moving Objects Crossing a Control Line
 
